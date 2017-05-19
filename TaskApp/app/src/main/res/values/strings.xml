@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task App</string>
+    <string name="task_label">Task:</string>
+    <string name="previous_btn_text">Previous</string>
+    <string name="next_btn_text">Next</string>
+    <string name="not_available_text">No tasks available</string>
+    <string name="cancel"> Cancel </string>
+    <string name="save_txt"> Save </string>
+    <string name="title"> Title: </string>
+    <string name="contents"> Contents</string>
+    <string name="add_task_text"> Add Task </string>
+    <string name="edit_task_text"> Edit Task </string>
+</resources>
